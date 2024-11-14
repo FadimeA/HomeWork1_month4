@@ -8,5 +8,7 @@
         android:id="@+id/secondFragment"
         android:title="Second"/>
 
-
+    <item
+        android:id="@+id/thirdFragment"
+        android:title="Third"/>
 </menu>
